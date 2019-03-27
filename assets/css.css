@@ -1,0 +1,101 @@
+body {
+    background-color:rgb(0, 162, 255);
+    color: purple;
+    font-family: 'Lobster', cursive;
+}
+.header {
+    background-color: rgb(195, 146, 228);
+    color: purple;
+    text-align:center;
+    margin: 150px;
+    font-family: 'Lobster', cursive;
+}
+.sunshine {
+    background-color: purple;
+    border: purple;
+}
+.navbar {
+    width:100%;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    
+}
+
+.projectOne {
+    float:left;
+    margin-left: 125px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.projectTwo {
+    float: left;
+    margin-left: 125px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.projectThree {
+    float: left;
+    margin-left: 125px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+
+.projectFour {
+    float: left;
+    margin-left: 133px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.link {
+    color:purple;
+}
+header {
+  background-color: rgb(195, 146, 228);
+    color: purple;
+    font-size: 50px;
+    text-align:center;
+}
+#information {
+    width:65%;
+    margin-left: 220px;
+    background-color: rgb(195, 146, 228);
+    margin-top:20px;
+}
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+#refs {
+    background-color: rgb(195, 146, 228);
+    color: purple;
+    height:70px;
+    font-size: 15px;
+    text-align:center;
+    width:65%;
+    margin-left:220px;
+}
+.email {
+    float:left;
+    margin: 0px 10px 0px 100px;
+}
+.phone {
+    float:left;
+    margin: 0px 10px 0px 10px;
+}
+.pdf {
+    float:left;
+    margin: 0px 10px 0px 10px;
+}
+.linkedInInfo {
+    float:left;
+    margin: 7px 10px 0px 10px;
+}
+.githubInfo {
+    float:left;
+    margin: 7px 10px 0px 10px;
+}
+#aboutMe {
+    float:left;
+    margin-top:-25px;
+}
