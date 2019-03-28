@@ -3,6 +3,12 @@ body {
     color: purple;
     font-family: 'Lobster', cursive;
 }
+/* #wrapper {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+} */
 .header {
     background-color: rgb(195, 146, 228);
     color: purple;
@@ -99,3 +105,4 @@ h1 {
     float:left;
     margin-top:-25px;
 }
+
