@@ -1,5 +1,7 @@
 body {
-    background-color:rgb(0, 162, 255);
+    /* background-color:rgb(0, 162, 255); */
+    background-image: url(https://source.unsplash.com/1920x1080?code);
+
     color: purple;
     font-family: 'Lobster', cursive;
 }
@@ -32,6 +34,12 @@ body {
     margin-left: 125px;
     margin-bottom: 30px;
     margin-top: 20px;
+    
+}
+
+.projectOne:hover, .projectTwo:hover, .projectThree:hover, .projectFour:hover,
+.projectFive:hover, .projectSix:hover {
+    background-color: green;
 }
 .projectTwo {
     float: left;
@@ -47,7 +55,7 @@ body {
 }
 
 
-.projectFour {
+.projectFour, .projectFive, .projectSix {
     float: left;
     margin-left: 133px;
     margin-bottom: 30px;
