@@ -38,7 +38,7 @@ body {
 }
 
 .projectOne:hover, .projectTwo:hover, .projectThree:hover, .projectFour:hover,
-.projectFive:hover, .projectSix:hover {
+.projectFive:hover, .projectSix:hover, .projectSeven:hover {
     background-color: green;
 }
 .projectTwo {
@@ -55,7 +55,7 @@ body {
 }
 
 
-.projectFour, .projectFive, .projectSix {
+.projectFour, .projectFive, .projectSix, .projectSeven {
     float: left;
     margin-left: 133px;
     margin-bottom: 30px;
